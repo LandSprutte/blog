@@ -1,4 +1,3 @@
-import all from './posts/*.md';
 import fs from 'fs';
 
 const all = () => {
